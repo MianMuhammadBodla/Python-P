@@ -44,9 +44,9 @@
 #     print('Muhammad')
 
 
-x: int = 0
-for x in [1,2,3,4,5,6,7,8,9]:
-    print('Muhammad')
+# x: int = 0
+# for x in [1,2,3,4,5,6,7,8,9]:
+#     print('Muhammad')
     
 
 
